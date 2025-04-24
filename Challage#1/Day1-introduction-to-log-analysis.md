@@ -37,19 +37,19 @@ Event ID 4104 logs PowerShell script block execution. These entries are critical
 
 ### Screenshot 1: General event view
 
-![Screenshot 1](/Images/Day1/event%20viewr1.png)
+![Screenshot 1](Images/Day1/event%20viewr1.png)
 
 ### Screenshot 2: General event view
 
-![Screenshot 2](/Images/Day1/eventviewr1.png)
+![Screenshot 2](Images/Day1/eventviewr1.png)
 
 ### Screenshot 3: Details
 
-![Screenshot 3](/Images/Day1/eventviewr2.png)
+![Screenshot 3](Images/Day1/eventviewr2.png)
 
 ### Screenshot 4: Details
 
-![Screenshot 3](/Images/Day1/event%20viewr3.png)
+![Screenshot 3](Images/Day1/event%20viewr3.png)
 
 ## Interpretation
 
